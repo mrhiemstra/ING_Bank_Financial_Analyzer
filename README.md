@@ -13,7 +13,7 @@ A Python tool to analyze and visualize financial data exported from **ING Bank**
 
 ### Example Command Line Output
 
-![Command Line Output Table](fig/terminal_output.png)  
+![Command Line Output Table](fig/cmd_output.png)  
 *Example of the analyzer script output in the terminal*
 
 ---
